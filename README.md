@@ -5,4 +5,5 @@ https://www.w3schools.com
 
 This tutorial is built step by step in the Git tutorial
 
-ADDING some more info about Git repository 
+ADDING some more info about Git repository
+

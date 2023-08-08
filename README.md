@@ -7,4 +7,4 @@ This tutorial is built step by step in the Git tutorial
 
 ADDING some more info about Git repository
 
-Demonstrate Git PULL!
+Changing the README file!
